@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trumandu&show_icons=true&theme=gotham">
+
+I'm **TrumanDu**, a programmer at XI'AN.
+
+-   :newspaper: blog: [trumandu.github.io](https://trumandu.github.io/) or [blog.trumandu.top](http://blog.trumandu.top/)
+-   :package: personal website [www.trumandu.top](https://www.trumandu.top/)
+---
