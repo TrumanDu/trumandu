@@ -22,6 +22,7 @@ I'm **TrumanDu**, a programmer at XI'AN.
 -   :newspaper: blog: [blog.trumandu.top](http://blog.trumandu.top/)
 -   :package: personal website [www.trumandu.top](https://www.trumandu.top/)
 -   :battery: 微信公众号 [TrumanDu Show](https://mp.weixin.qq.com/s/3PYnNEf6fZ1mynQ-dYQVKw)
+-   :books: book: [book.trumandu.top](http://book.trumandu.top/)
 ---
 <br>
 <br>
