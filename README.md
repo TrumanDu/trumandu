@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trumandu&show_icons=true&theme=gotham">
+
+<img align="right" width="50%" height="50%" src="https://user-images.githubusercontent.com/16727775/228105026-d3216ca0-ae7b-4c13-b96c-ece0e9a725cb.jpg">
 
 I'm **TrumanDu**, a programmer at XI'AN.
 
@@ -27,19 +28,4 @@ I'm **TrumanDu**, a programmer at XI'AN.
 <br>
 <br>
 <br>
-
-![wechat_20230312215618 7036b254](https://user-images.githubusercontent.com/16727775/228105026-d3216ca0-ae7b-4c13-b96c-ece0e9a725cb.jpg)
-
-
-```
-
-██╗    ██╗███████╗██╗    ██████╗ ███████╗███╗   ██╗    ███╗   ███╗██╗███╗   ██╗    ███████╗██╗   ██╗    ██╗    ██╗██╗   ██╗
-██║    ██║██╔════╝██║    ██╔══██╗██╔════╝████╗  ██║    ████╗ ████║██║████╗  ██║    ██╔════╝██║   ██║    ██║    ██║██║   ██║
-██║ █╗ ██║█████╗  ██║    ██████╔╝█████╗  ██╔██╗ ██║    ██╔████╔██║██║██╔██╗ ██║    █████╗  ██║   ██║    ██║ █╗ ██║██║   ██║
-██║███╗██║██╔══╝  ██║    ██╔══██╗██╔══╝  ██║╚██╗██║    ██║╚██╔╝██║██║██║╚██╗██║    ██╔══╝  ██║   ██║    ██║███╗██║██║   ██║
-╚███╔███╔╝███████╗██║    ██║  ██║███████╗██║ ╚████║    ██║ ╚═╝ ██║██║██║ ╚████║    ██║     ╚██████╔╝    ╚███╔███╔╝╚██████╔╝
- ╚══╝╚══╝ ╚══════╝╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝      ╚═════╝      ╚══╝╚══╝  ╚═════╝ 
-                                                                                                                           
-
-
-```
+<img src="https://github-readme-stats.vercel.app/api?username=trumandu&show_icons=true&theme=gotham">
