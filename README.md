@@ -28,6 +28,9 @@ I'm **TrumanDu**, a programmer at XI'AN.
 <br>
 <br>
 
+![wechat_20230312215618 7036b254](https://user-images.githubusercontent.com/16727775/228105026-d3216ca0-ae7b-4c13-b96c-ece0e9a725cb.jpg)
+
+
 ```
 
 ██╗    ██╗███████╗██╗    ██████╗ ███████╗███╗   ██╗    ███╗   ███╗██╗███╗   ██╗    ███████╗██╗   ██╗    ██╗    ██╗██╗   ██╗
