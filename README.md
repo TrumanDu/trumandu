@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="50%" height="50%" src="https://user-images.githubusercontent.com/16727775/228105026-d3216ca0-ae7b-4c13-b96c-ece0e9a725cb.jpg">
+<img align="right" width="40%" height="50%" src="https://user-images.githubusercontent.com/16727775/228105026-d3216ca0-ae7b-4c13-b96c-ece0e9a725cb.jpg">
 
 I'm **TrumanDu**, a programmer at XI'AN.
 
@@ -24,8 +24,5 @@ I'm **TrumanDu**, a programmer at XI'AN.
 -   :package: personal website [www.trumandu.top](https://www.trumandu.top/)
 -   :battery: 微信公众号 [TrumanDu Show](https://mp.weixin.qq.com/s/3PYnNEf6fZ1mynQ-dYQVKw)
 -   :books: book: [book.trumandu.top](http://book.trumandu.top/)
----
-<br>
-<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=trumandu&show_icons=true&theme=gotham">
